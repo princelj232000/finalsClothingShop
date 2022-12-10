@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "assets": "^3.0.1",
+    "styled-components": "^5.3.6"
+  }
+}
